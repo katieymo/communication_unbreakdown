@@ -6,6 +6,8 @@ This project was completed for the MIDS W210 Capstone class in Fall 2020.
 
 Team members: Kevin Hartman, Nick Sylva, Daniel Alvarez, and Katie Mo
 
-- Link to website: https://unbreak.info
+- Website: https://unbreak.info
 
-- Link to project page: https://www.ischool.berkeley.edu/projects/2020/communication-unbreakdown
+- Project page: https://www.ischool.berkeley.edu/projects/2020/communication-unbreakdown
+
+- Presentation: https://github.com/katieymo/communication_unbreakdown/blob/main/Communication%20Unbreakdown%20-%20Showcase%20Presentation.pdf
